@@ -1,0 +1,17 @@
+# Secrets and Environment Variables
+.env
+
+# Python build artifacts and caches
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Node modules (Frontend dependencies)
+node_modules/
+dist/
+
+# Operating system files
+.DS_Store
+Thumbs.db
